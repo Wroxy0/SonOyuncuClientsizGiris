@@ -1,2 +1,4 @@
 # SonOyuncuClientsizGiris
-Tek Yapmanız Gereken Buradaki Tüm Herşeyi Kendi Srcnize Geçirmektir.
+Boklu Lunaya Giriş Yapabilmek Içindir.
+
+https://discord.gg/wcvdyEeG6D :)
